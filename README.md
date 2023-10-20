@@ -1,3 +1,5 @@
+<img src="https://github.com/dexv2/dexv2/blob/main/mastermind.gif" />
+
 <h1 align="center">Hi there, I'm Vermont Phil Paguiligan 👋</h1>
 
 <p align="center">
