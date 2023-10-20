@@ -11,6 +11,9 @@
 <p align="center"> <a href="https://www.linkedin.com/in/vermont-paguiligan/" target="blank"></a> <img alt="Static Badge" src="https://img.shields.io/badge/let's_connect_on_linkedin-%23545454?style=for-the-badge&logo=linkedin&logoColor=%232a66bc"></p>
 <br>
 
+<h1 align="center">< Tech Stacks 🛠 /></h1>
+<br>
+
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
