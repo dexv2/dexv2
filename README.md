@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Always+Learning+New+Things;WEB3+Enthusiast;Open-Source+Enthusiast;Always+Learning+New+Things;WEB3+Enthusiast;Nice+To+Meet+You+...](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=DF02FF&center=true&vCenter=true&random=false&width=435&lines=Blockchain+enthusiast;Relentlessly+honing+skills;Dedicated+to+Smart+Contract+Security;Open+for+career+opportunities&center=true">
 </p>
 
-<p align="center">Full-Stack Blockchain Engineer for DeFi</p>
+<p align="center">A Full-Stack Blockchain Engineer specialized in DeFi 👨‍🌾🚀</p>
 <br>
 <p align="center"> <a href="https://www.linkedin.com/in/vermont-paguiligan/" target="blank"></a> <img alt="Static Badge" src="https://img.shields.io/badge/let's_connect_on_linkedin-%23545454?style=for-the-badge&logo=linkedin&logoColor=%232a66bc"></p>
 <br>
