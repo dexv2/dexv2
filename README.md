@@ -34,6 +34,16 @@
 ![Chai](https://img.shields.io/badge/chai-%23f5e8cc?style=for-the-badge&logo=chai&logoColor=%23962014)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+<details>
+<summary><b>Most used programming languages</b></summary>
+<p align="center">
+<a href = "https://github.com/dexv2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexv2&text_color=dedede&show_icons=true&bg_color=151515&hide=none&layout=compact&card_width=400" alt="dexv2's GitHub Stats" height="180px"/>
+  </a>
+</p>
+</details>
+
+
 <!--
 **dexv2/dexv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
