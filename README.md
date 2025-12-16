@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Vermont Phil Paguiligan 👋</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Always+Learning+New+Things;Always+Learning+New+Things;Nice+To+Meet+You+...](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=DF02FF&center=true&vCenter=true&random=false&width=435&lines=Relentlessly+honing+skills;Open+for+career+opportunities&center=true"></img>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Always+Learning+New+Things;Always+Learning+New+Things;Nice+To+Meet+You+...](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=DF02FF&center=true&vCenter=true&random=false&width=435&lines=A+Full-Stack+Software+Engineer;Relentlessly+honing+skills;Open+for+career+opportunities&center=true"></img>
 </p>
 
 <p align="center">Full-Stack Software Engineer 💻🚀</p>
